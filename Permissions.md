@@ -98,3 +98,15 @@ Do you need help managing permissions for our bot in your server? Below, you'll 
 
 
 ## Configuration Commands
+
+### `/autoroleadd`
+- **Usage**: Moderation  
+- **Permission required**: Manage Roles  
+
+### `/autoroleclear`
+- **Usage**: Moderation  
+- **Permission required**: Manage Roles  
+
+### `/counting`
+- **Usage**: Moderation  
+- **Permission required**: Manage Channels  
