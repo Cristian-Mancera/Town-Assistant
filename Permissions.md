@@ -74,6 +74,14 @@ Do you need help managing permissions for our bot in your server? Below, you'll 
 - **Usage**: Moderation
 - **Permission required**: Manage Roles
 
+## Functionality Commands
 
+### `/say`
+- **Usage**: Public  
+- **Permission required**: Manage Messages  
+
+### `/embed`
+- **Usage**: Public  
+- **Permission required**: Manage Messages  
 
 
