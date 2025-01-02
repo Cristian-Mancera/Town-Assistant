@@ -96,3 +96,5 @@ Do you need help managing permissions for our bot in your server? Below, you'll 
 - **Usage**: Public  
 - **Permission required**: "Use Application Commands" (default Discord permission)  
 
+
+## Configuration Commands
