@@ -74,3 +74,23 @@
 ### `/embed`
 - **Uso**: Moderación  
 - **Permiso requerido**: Gestionar Mensajes
+
+### `/format role`
+- **Uso**: Público  
+- **Permiso requerido**: "Usar Comandos de Aplicación" (permiso predeterminado de Discord)  
+
+### `/format emoji`
+- **Uso**: Público  
+- **Permiso requerido**: "Usar Comandos de Aplicación" (permiso predeterminado de Discord)  
+
+### `/format channel`
+- **Uso**: Público  
+- **Permiso requerido**: "Usar Comandos de Aplicación" (permiso predeterminado de Discord)  
+
+### `/copy`
+- **Uso**: Moderación  
+- **Permiso requerido**: Gestionar Mensajes  
+
+### `/show emojis`
+- **Uso**: Público  
+- **Permiso requerido**: "Usar Comandos de Aplicación" (permiso predeterminado de Discord)
