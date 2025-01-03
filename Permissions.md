@@ -2,11 +2,7 @@
 
 ## Comandos de Información
 
-### `/serverinfo`
-- **Uso**: Público
-- **Permiso requerido**: "Usar Comandos de Aplicación" (permiso predeterminado de Discord)
-
-### `/whois`
+### `/about`
 - **Uso**: Público
 - **Permiso requerido**: "Usar Comandos de Aplicación" (permiso predeterminado de Discord)
 
@@ -22,9 +18,14 @@
 - **Uso**: Público
 - **Permiso requerido**: "Usar Comandos de Aplicación" (permiso predeterminado de Discord)
 
-### `/about`
+### `/serverinfo`
 - **Uso**: Público
 - **Permiso requerido**: "Usar Comandos de Aplicación" (permiso predeterminado de Discord)
+
+### `/whois`
+- **Uso**: Público
+- **Permiso requerido**: "Usar Comandos de Aplicación" (permiso predeterminado de Discord)
+
 
 ## Comandos de Moderación
 
@@ -40,22 +41,36 @@
 - **Uso**: Moderación
 - **Permiso requerido**: Banear Miembros
 
-### `/unban`
-- **Uso**: Moderación
-- **Permiso requerido**: Banear Miembros
-
 ### `/kick`
 - **Uso**: Moderación
 - **Permiso requerido**: Expulsar Miembros
 
-### `/timeout`
+### `/nuke`
 - **Uso**: Moderación
-- **Permiso requerido**: Timeout a Miembros
+- **Permiso requerido**: Gestionar Canales
 
 ### `/purge`
 - **Uso**: Moderación
 - **Permiso requerido**: Gestionar Mensajes
 
-### `/nuke`
+### `/timeout`
 - **Uso**: Moderación
-- **Permiso requerido**: Gestionar Canales
+- **Permiso requerido**: Timeout a Miembros
+
+### `/unban`
+- **Uso**: Moderación
+- **Permiso requerido**: Banear Miembros
+
+## Comandos de Funcionalidad
+
+### `/addrole`
+- **Uso**: Moderación
+- **Permiso requerido**: Gestionar Roles
+
+### `/say`
+- **Uso**: Moderación  
+- **Permiso requerido**: Gestionar Mensajes  
+
+### `/embed`
+- **Uso**: Moderación  
+- **Permiso requerido**: Gestionar Mensajes
