@@ -1,112 +1,61 @@
-# Permissions for Commands
+¿Necesitas ayuda para gestionar los permisos de nuestro bot en tu servidor? A continuación, encontrarás una lista detallada de los permisos requeridos para cada rol y/o usuario en tu servidor para usar correctamente nuestros comandos. Esta guía te ayudará a configurar los permisos de manera adecuada y garantizar que todos los comandos funcionen sin problemas.
 
-Do you need help managing permissions for our bot in your server? Below, you'll find a detailed list of the permissions required for each role and/or user in your server to properly use our commands. This guide will help you configure the permissions correctly and ensure that all commands work smoothly.
-
-## Information Commands
+## Comandos de Información
 
 ### `/serverinfo`
-- **Usage**: Public
-- **Permission required**: "Use Application Commands" (default Discord permission)
+- **Uso**: Público
+- **Permiso requerido**: "Usar Comandos de Aplicación" (permiso predeterminado de Discord)
 
-### `/userinfo`
-- **Usage**: Public
-- **Permission required**: "Use Application Commands" (default Discord permission)
+### `/whois`
+- **Uso**: Público
+- **Permiso requerido**: "Usar Comandos de Aplicación" (permiso predeterminado de Discord)
 
 ### `/avatar`
-- **Usage**: Public
-- **Permission required**: "Use Application Commands" (default Discord permission)
+- **Uso**: Público
+- **Permiso requerido**: "Usar Comandos de Aplicación" (permiso predeterminado de Discord)
 
 ### `/banner`
-- **Usage**: Public
-- **Permission required**: "Use Application Commands" (default Discord permission)
+- **Uso**: Público
+- **Permiso requerido**: "Usar Comandos de Aplicación" (permiso predeterminado de Discord)
 
 ### `/invite`
-- **Usage**: Public
-- **Permission required**: "Use Application Commands" (default Discord permission)
+- **Uso**: Público
+- **Permiso requerido**: "Usar Comandos de Aplicación" (permiso predeterminado de Discord)
 
 ### `/about`
-- **Usage**: Public
-- **Permission required**: "Use Application Commands" (default Discord permission)
+- **Uso**: Público
+- **Permiso requerido**: "Usar Comandos de Aplicación" (permiso predeterminado de Discord)
 
-## Moderation Commands
+## Comandos de Moderación
 
 > [!CAUTION]
-> These permissions are sensitive; only grant them to your trusted staff.
+>  Estos permisos son peligrosos; solo otórgalos a tu personal de confianza.
 
-
-### `/ban`
-- **Usage**: Moderation
-- **Permission required**: Ban Members
-
-### `/kick`
-- **Usage**: Moderation
-- **Permission required**: Kick Members
-
-### `/timeout`
-- **Usage**: Moderation
-- **Permission required**: Timeout Members
-
-### `/purge`
-- **Usage**: Moderation
-- **Permission required**: Manage Messages
-
-### `/nuke`
-- **Usage**: Moderation
-- **Permission required**: Manage Channels
-
-### `/unban`
-- **Usage**: Moderation
-- **Permission required**: Ban Members
-
-### `/warn`
-- **Usage**: Moderation
-- **Permission required**: Manage Members
-
-### `/warnlist`
-- **Usage**: Moderation
-- **Permission required**: Manage Members
-
-### `/warnclear`
-- **Usage**: Moderation
-- **Permission required**: Manage Members
 
 ### `/addrole`
-- **Usage**: Moderation
-- **Permission required**: Manage Roles
+- **Uso**: Moderación
+- **Permiso requerido**: Gestionar Roles
 
-## Functionality Commands
+### `/ban`
+- **Uso**: Moderación
+- **Permiso requerido**: Banear Miembros
 
-### `/say`
-- **Usage**: Public  
-- **Permission required**: Manage Messages  
+### `/unban`
+- **Uso**: Moderación
+- **Permiso requerido**: Banear Miembros
 
-### `/embed`
-- **Usage**: Public  
-- **Permission required**: Manage Messages  
+### `/kick`
+- **Uso**: Moderación
+- **Permiso requerido**: Expulsar Miembros
 
-### `/format role`
-- **Usage**: Public  
-- **Permission required**: "Use Application Commands" (default Discord permission)  
+### `/timeout`
+- **Uso**: Moderación
+- **Permiso requerido**: Timeout a Miembros
 
-### `/format emoji`
-- **Usage**: Public  
-- **Permission required**: "Use Application Commands" (default Discord permission)  
+### `/purge`
+- **Uso**: Moderación
+- **Permiso requerido**: Gestionar Mensajes
 
-### `/format channel`
-- **Usage**: Public  
-- **Permission required**: "Use Application Commands" (default Discord permission)  
-
-
-## Configuration Commands
-
-### `/autoroleadd`
-- **Usage**: Moderation  
-- **Permission required**: Manage Roles  
-
-### `/autoroleclear`
-- **Usage**: Moderation  
-- **Permission required**: Manage Roles  
-
-### `/counting`
-- **Usage**: Moderation  
-- **Permission required**: Manage Channels  
+### `/nuke`
+- **Uso**: Moderación
+- **Permiso requerido**: Gestionar Canales
