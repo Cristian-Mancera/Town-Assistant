@@ -94,3 +94,5 @@
 ### `/show emojis`
 - **Uso**: Público  
 - **Permiso requerido**: "Usar Comandos de Aplicación" (permiso predeterminado de Discord)
+
+## Comandos de Configuración
