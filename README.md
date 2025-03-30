@@ -30,9 +30,7 @@ Si deseas contribuir al proyecto, sigue estos pasos:
 
 ### 📥 Clonar el Repositorio
 ```sh
-# Clona el repositorio en tu máquina local
 git clone https://github.com/Cristian-Mancera/Town-Assistant.git
-cd Town-Assistant
 ```
 
 ### 🔑 Configurar Variables de Entorno
@@ -54,4 +52,4 @@ Si utilizas este bot para tu propio uso, debes dar atribución a [Cristian](http
 ## 🪙 Donaciones 
 Si deseas apoyar el desarrollo de este y otros proyectos, puedes hacer una donación para ayudar a mejorar los equipos y seguir creando herramientas útiles. Cualquier aporte es bienvenido. 
 
-Realiza tu donación aquí: [Página de donaciones](https://town.mysellauth.com/product/donations)
+Realiza tu donación aquí: [Página de donaciones.](https://town.mysellauth.com/product/donations)

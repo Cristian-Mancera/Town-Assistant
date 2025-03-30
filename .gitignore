@@ -1,8 +1,6 @@
-
 .env
 *.sqlite3
 *.db
-
 
 .vscode/
 __pycache__/
@@ -10,7 +8,9 @@ __pycache__/
 *.pyo
 .DS_Store
 
-
 node_modules/
 venv/
 logs/
+
+/Data/*
+!/Data/
