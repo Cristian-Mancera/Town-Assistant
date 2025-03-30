@@ -75,17 +75,17 @@ class Sticky(commands.Cog):
                         pass
 
     def load_sticky_data(self):
-        if not os.path.exists('Data/Sticky.json') or os.path.getsize('Data/Sticky.json') == 0:
+        if not os.path.exists('../Data/Sticky.json') or os.path.getsize('../Data/Sticky.json') == 0:
             return {}
         
         try:
-            with open('Data/Sticky.json', 'r') as f:
+            with open('../Data/Sticky.json', 'r') as f:
                 return json.load(f)
         except json.JSONDecodeError:
             return {}
 
     def save_sticky_data(self, data):
-        with open('Data/Sticky.json', 'w') as f:
+        with open('../Data/Sticky.json', 'w') as f:
             json.dump(data, f, indent=4)
 
     @discord.app_commands.command(name='stickydelete', description='Deletes a sticky message in a specific channel.')

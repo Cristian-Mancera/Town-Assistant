@@ -3,7 +3,7 @@ import json
 import os
 from discord.ext import commands
 
-COUNTER_FILE = "Data/Counter.json"
+COUNTER_FILE = "../Data/Counter.json"
 
 class Counter(commands.Cog):
     def __init__(self, bot):

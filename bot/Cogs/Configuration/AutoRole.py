@@ -5,7 +5,7 @@ import json
 import datetime
 import os
 
-AUTOROLE_FILE = "Data/AutoRoles.json"
+AUTOROLE_FILE = "../Data/AutoRoles.json"
 
 def load_autoroles():
     if not os.path.exists(AUTOROLE_FILE):
