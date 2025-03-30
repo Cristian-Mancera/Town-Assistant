@@ -13,4 +13,7 @@ venv/
 logs/
 
 Data/*
+
 !Data/.gitkeep
+
+!bot/Data/
